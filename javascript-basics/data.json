@@ -1,0 +1,11 @@
+{
+    "name": "USA",
+    "Population": 332277411,
+    "percentageOfWhite": 66,
+    "president": "Joe Biden",
+    "county" :{
+        "city": "San Francisco",
+        "state": "CA"
+    }
+
+}
